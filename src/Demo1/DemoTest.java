@@ -12,4 +12,8 @@ public class DemoTest {
 		System.out.println(a+b);
 	}
 
+	public static void subtracr(int a, int b) {
+		System.out.println(a-b)
+			
+		}
 }
